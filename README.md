@@ -12,3 +12,4 @@
     <td>d</td>
   </tr>
 </table>
+<img src="test.jpg" />
